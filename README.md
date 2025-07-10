@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Ravirajsinh Zala
+💻 7+ Years of Experience in Web Development  
+🌱 Working with PHP, Laravel, Node.js  
+📫 Email: ravirajsinhzala26@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ravirajsinh-zala-a60472146/)  
 
-<!--
-**ravirajsinhzala/ravirajsinhzala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- PHP / Laravel
+- Node.js / Express
+- MySQL / MongoDB
+- REST APIs / WebSockets
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirajsinhzala&show_icons=true&theme=radical)
