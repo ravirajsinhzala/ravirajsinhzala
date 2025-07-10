@@ -9,6 +9,3 @@
 - Node.js / Express
 - MySQL / MongoDB
 - REST APIs / WebSockets
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirajsinhzala&show_icons=true&theme=radical)
